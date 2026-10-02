@@ -1,4 +1,4 @@
-# Job Portal — Reference System Design and Prototype
+# Job Portal Platform — System Design for Job Search, Candidate Matching and Applications
 
 [![CI](https://github.com/shivkumarsinghsky/job-portal-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/shivkumarsinghsky/job-portal-platform/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
